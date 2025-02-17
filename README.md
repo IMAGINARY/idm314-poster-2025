@@ -6,6 +6,9 @@
 
 Created by IMAGINARY gGmbH for the International Mathematical Union.
 
+The Penrose tiling was generated using [patterncollider](https://aatishb.com/patterncollider/),
+by Aatish Bhatia in collaboration with Henry Reich.
+
 ## License
 
 © 2025 International Mathematical Union
